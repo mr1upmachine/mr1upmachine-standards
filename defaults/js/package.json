@@ -1,0 +1,17 @@
+{
+  "name": "mr1upmachine-default-js",
+  "version": "0.0.0-PLACEHOLDER",
+  "main": "src/index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "author": "Sean Hale",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.22.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "~2.7.1"
+  }
+}
