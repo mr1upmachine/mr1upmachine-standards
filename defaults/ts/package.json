@@ -1,0 +1,21 @@
+{
+  "name": "mr1upmachine-default-ts",
+  "version": "0.0.0-PLACEHOLDER",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "author": "Sean Hale",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.33.1",
+    "@typescript-eslint/parser": "^5.33.1",
+    "eslint": "^8.22.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "~2.7.1",
+    "typescript": "~4.7.4"
+  }
+}
